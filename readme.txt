@@ -7,15 +7,4 @@
 88888888
 9999999999
 aaaaaaaaaa
-ccccccccc
-bbbbb
-dddddddddddd
-dddddddddddd
-ccccccccc
-ddddddddd
-eeeeeeeee
-fffffffff
-ggggggggg
-hhhhhhhhh
-jjjjjjjjj
-kkkkkkkkk
+
